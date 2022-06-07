@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3FF18D07-DA4B-4220-B4C4-72A12E59E2C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ecommerceAPI/Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="Infrastructure/Data/Migrations/20220607055525_InitialCreate.cs" Line="4" Column="41" />
+      <File FileName="Infrastructure/Data/Migrations/StoreContextModelSnapshot.cs" Line="8" Column="41" />
+      <File FileName="Infrastructure/Data/Migrations/20220607055525_InitialCreate.Designer.cs" Line="5" Column="61" />
+      <File FileName="Infrastructure/Data/Context.cs" Line="5" Column="30" />
+      <File FileName="Infrastructure/Class1.cs" Line="1" Column="1" />
+      <File FileName="ecommerceAPI/Startup.cs" Line="32" Column="14" />
+      <File FileName="ecommerceAPI/Controllers/ProductsController.cs" Line="8" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ecommerceAPI" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ecommerceAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

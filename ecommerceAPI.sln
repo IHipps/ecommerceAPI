@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecommerceAPI", "ecommerceAPI\ecommerceAPI.csproj", "{3FF18D07-DA4B-4220-B4C4-72A12E59E2C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{61E235FF-EAF7-4216-832A-91A5FCF8B517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{9BF8D3B9-8150-4B35-98DD-DB41C9901579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF18D07-DA4B-4220-B4C4-72A12E59E2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF18D07-DA4B-4220-B4C4-72A12E59E2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF18D07-DA4B-4220-B4C4-72A12E59E2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF18D07-DA4B-4220-B4C4-72A12E59E2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E235FF-EAF7-4216-832A-91A5FCF8B517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E235FF-EAF7-4216-832A-91A5FCF8B517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E235FF-EAF7-4216-832A-91A5FCF8B517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E235FF-EAF7-4216-832A-91A5FCF8B517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF8D3B9-8150-4B35-98DD-DB41C9901579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF8D3B9-8150-4B35-98DD-DB41C9901579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF8D3B9-8150-4B35-98DD-DB41C9901579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF8D3B9-8150-4B35-98DD-DB41C9901579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40ACC80F-9059-4DA2-BFAD-88CAA85BC9E0}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.StandardHeader = $2
+		$0.VersionControlPolicy = $3
+	EndGlobalSection
+EndGlobal
